@@ -1,0 +1,10 @@
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+[INFO] 加载权重: ./checkpoints/best.pth
+[KITTIDataset] split=val, samples=1496
+
+===== 评估结果 =====
+  Car           AP = 7.31%
+  Pedestrian    AP = 12.70%
+  Cyclist       AP = 7.58%
+  mAP                = 9.19%

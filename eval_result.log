@@ -1,0 +1,8 @@
+[INFO] 加载权重: checkpoints/best.pth
+[KITTIDataset] split=val, samples=1496
+
+===== 评估结果 =====
+  Car           AP = 2.80%
+  Pedestrian    AP = 3.88%
+  Cyclist       AP = 9.09%
+  mAP                = 5.26%
