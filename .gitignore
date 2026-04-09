@@ -1,0 +1,8 @@
+checkpoints/
+data/
+*.log
+*.pth
+checkpoints/
+data/
+*.log
+*.pth
